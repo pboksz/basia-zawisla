@@ -76,6 +76,7 @@ poland = [
   ['Opoczno, Poland',51.377272,20.2747472]
   ['Stalowa Wola, Poland',50.5661941,22.0162866]
   ['Suwałki, Poland',54.1027135,22.9291278]
+  ['Zakopane, Poland',49.2998813,19.9615111]
   ['Toruń, Poland',53.0104728,18.6043141]
   ['Malbork, Poland',54.0401622,19.0284614]
 ]
@@ -100,4 +101,5 @@ britain = [
   ['Betws-y-Coed, Wales',53.0923628,-3.8013087]
   ['Whinfell, England',54.6354879,-2.6534459]
   ['Narberth, Wales',51.781983,-4.8085441]
+  ['Saltdean, England',50.8030489,-0.0574974]
 ]
